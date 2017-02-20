@@ -8,4 +8,4 @@ Joomla 3.0+
 
 Компонент позволяет просматривать все сохраненные сообщения из модуля Simple Callback Module. 
 
-![mod_simplecallback screenshot](http://joomla.startler.ru/images/screenshots/com_simplecallback.png)
+![mod_simplecallback screenshot](screenshot-3.png)
